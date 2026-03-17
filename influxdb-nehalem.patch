@@ -8,4 +8,4 @@ index a16ed45ce8..8a0e9f5be9 100644
 -   "-C", "target-cpu=haswell",
 +   "-C", "target-cpu=nehalem",
     "-C", "force-frame-pointers=yes",
-]
+ ]
